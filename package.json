@@ -1,0 +1,11 @@
+{
+    "name": "cadefaol_bot",
+    "version": "1.0.0",
+    "description": "No description yet",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "author": "T Jurge",
+    "license": "MIT"
+  }
